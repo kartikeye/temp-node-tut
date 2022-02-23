@@ -4,13 +4,12 @@
   "description": "",
   "main": "1-into.js",
   "scripts": {
-    "start": "node aap.js"
+    "start": "nodemon aap.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.1.3",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
